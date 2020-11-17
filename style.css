@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(240, 240, 240);
+    margin: 40px;
+    font-family: Roboto;
+}
+header {
+    display: flex;
+    justify-content: center;
+
+}
+.header-itens {
+    margin-left: 16px;
+    margin-right: 24px;
+}
+.texto-sobre {
+    width: 35%;
+    margin-top: 12%;
+    margin-left: 14%
+}
+.social-media-icons {
+    margin-left: 14%;
+
+}
+.oi {
+    font-family: lato;
+    color: rgb(209, 90, 90)
+}
+.desainer {
+    font-family: lato;
+}
+.fab {
+    margin: 16px 16px 16px 0px;
+    font-size: 24px;
+    color: rgb(173, 173, 173);
+}
+.fab:hover {
+    color: yellow
+}
+a:visited {
+    color: rgb(173, 173, 173)
+}
